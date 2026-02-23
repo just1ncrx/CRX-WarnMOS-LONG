@@ -16,8 +16,8 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 # ------------------------------
 # Eingabe / Ausgabe
 # ------------------------------
-DATAPATH = "data/warnmos"
-OUTPUT_DIR = "warnmos/gewitter"
+DATAPATH = "data/warnmoslong"
+OUTPUT_DIR = "warnmoslong/gewitter"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Deutschland-Extent
